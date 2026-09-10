@@ -1,205 +1,205 @@
 tweet_id,author_id,text,created_at,intent,should_escalate,escalation_reason
-2746350,769071,"@SpotifyCares and as far as i can tell, they're still out of sync (based on some initial tests just now)",Mon Nov 20 22:29:13 +0000 2017,,,
-841113,320113,"@SpotifyCares I don’t really use it whilst I’m at home, it’s whilst I’m on my way to and from work. Voice control pops up all the time too",Mon Oct 09 12:54:09 +0000 2017,,,
-967386,349446,@SpotifyCares aight. thank you.,Sat Oct 14 04:50:53 +0000 2017,,,
-1102971,380275,"@SpotifyCares ...dent it does not allow me to ""choose file"" I've tried this 3 times and have now been charged 4.99$ 3 times.",Tue Oct 24 02:20:54 +0000 2017,,,
+2746350,769071,"@SpotifyCares and as far as i can tell, they're still out of sync (based on some initial tests just now)",Mon Nov 20 22:29:13 +0000 2017,app_technical_issue,false,not needed
+841113,320113,"@SpotifyCares I don’t really use it whilst I’m at home, it’s whilst I’m on my way to and from work. Voice control pops up all the time too",Mon Oct 09 12:54:09 +0000 2017,app_technical_issue,false,not needed
+967386,349446,@SpotifyCares aight. thank you.,Sat Oct 14 04:50:53 +0000 2017,feedback_other,false,not needed
+1102971,380275,"@SpotifyCares ...dent it does not allow me to ""choose file"" I've tried this 3 times and have now been charged 4.99$ 3 times.",Tue Oct 24 02:20:54 +0000 2017,billing_payment,true,duplicate charge/refund investigation
 393176,209118,"@SpotifyCares Evening!
 
-How come you've removed the ""In Rotation"" from the Hip Hop section? All I see is Playlists and New Releases now..",Mon Oct 09 16:56:41 +0000 2017,,,
-2552729,725081,"@SpotifyCares The band called The Aristocrates @98802 formed in 2011 does not have an album called Steel Drum Favorites (2000), nor did it appear on Cold Heat (2005).",Thu Nov 16 14:07:41 +0000 2017,,,
-2957828,816405,"@SpotifyCares I have a Mac and when I use the desktop app Spotify, I cannot hear anything. I have chosen Listening on a Mac chosen so it is not routing it anywhere else. What is wrong? Volume is not down btw.",Wed Nov 29 19:15:48 +0000 2017,,,
-875172,327787,@SpotifyCares My email is associated with an FB account I don't have access to -- so I can't log in to that Spotify account to cancel. Help?,Fri Oct 20 17:14:27 +0000 2017,,,
-1999695,591272,@115888 @SpotifyCares,Thu Nov 02 21:27:53 +0000 2017,,,
-2774554,775410,@SpotifyCares Great Thank you!,Tue Nov 21 18:24:42 +0000 2017,,,
-2456278,703616,@SpotifyCares The updated version is out and it’s solid. 👌🏻,Mon Nov 20 14:24:39 +0000 2017,,,
-1894635,564755,@SpotifyCares My credit card was charged a student rate but I am already a premium customer. Can you refund the student rate please?,Tue Oct 24 08:34:38 +0000 2017,,,
-1969148,583389,@SpotifyCares Voted! https://t.co/Idsn569mrY,Tue Oct 31 15:58:24 +0000 2017,,,
-1172344,164928,@SpotifyCares  https://t.co/VGxMMc2DMq,Tue Oct 24 20:17:20 +0000 2017,,,
-664699,278413,"@SpotifyCares Didn't help. It's an issue with 2014 MBPs, they overheat when there is a fancy animation going on, happens on websites too.",Wed Oct 25 16:39:57 +0000 2017,,,
-1211754,404409,Reset phone. All Spotify lists gone. Doesn't recognise I'm premium account holder. Account works on wifes phone with all lists @SpotifyCares,Sun Oct 15 18:19:58 +0000 2017,,,
-839937,319829,@115888 @SpotifyCares please put aoa heart attack back on spotify https://t.co/FbHygo9sD3,Fri Oct 13 02:20:43 +0000 2017,,,
-1779321,209818,@SpotifyCares @16134 problem solved,Wed Oct 11 18:10:28 +0000 2017,,,
-551307,248470,@SpotifyCares DM!!!,Sat Dec 02 18:23:07 +0000 2017,,,
-902972,307331,@SpotifyCares Here is the Screenshot. I pressed shuffle. It happens in all his songs. https://t.co/HwF5UXxPDZ,Fri Oct 20 01:25:31 +0000 2017,,,
-1695250,514331,@SpotifyCares My Spotify keeps getting connected to a random device. I have changed my password but it keeps happening. How I delete device https://t.co/5EB7kPIGWM,Mon Nov 06 14:49:29 +0000 2017,,,
-1087962,376423,@SpotifyCares Now let's talk about lowering my payments 👀,Mon Oct 23 18:59:38 +0000 2017,,,
-854029,322854,"@SpotifyCares Hello, I wanna change my Spotify account username please 😭 Pls help 🙏",Mon Oct 09 14:46:10 +0000 2017,,,
-1648657,486619,@SpotifyCares i️ signed up for hulu + spotify student discount. spotify took out $4.99 as agreed but hulu took their full portion out. did i️ miss a step?,Sun Nov 05 22:49:48 +0000 2017,,,
-190106,160576,"@SpotifyCares it's a playlist in a set of folders. full path is ""feeling kind of... -&gt; ...emo -&gt; (all of the emo diaries)"". 119 songs. i was connected to wi-fi and got the errors i shared earlier.  but when i paired over bluetooth i was able to play the playlist. heard of that problem before?",Wed Oct 04 21:11:42 +0000 2017,,,
-1007900,156320,"Hey, @SpotifyCares. Sent you guys a couple of DMs. Need your help.",Fri Dec 01 00:59:41 +0000 2017,,,
-566314,252760,@SpotifyCares hi i tried paying for Spotify premium on the 99p offer but some how its disappeared when i went to subscribe,Sat Dec 02 17:03:51 +0000 2017,,,
-873980,327487,@SpotifyCares someone cares :’),Fri Oct 20 21:51:01 +0000 2017,,,
-2364788,590664,@SpotifyCares Just got the update 😘,Tue Nov 21 16:38:28 +0000 2017,,,
-1853820,554698,@SpotifyCares why can't I listen to frank ocean on spotify!!? :((((,Thu Oct 19 04:51:59 +0000 2017,,,
-2075077,613698,@SpotifyCares why can't I access the student discount?? says it can't verify me as a student???,Tue Oct 10 04:51:36 +0000 2017,,,
-2644216,746077,"Hey @SpotifyCares trying to get around the student discount, but site crashed before I could finish. Says 'having a bad day' but $ taken out",Tue Oct 31 03:52:35 +0000 2017,,,
-2823488,786727,"@SpotifyCares @127637 Hello, I've got  a problem to join a Spotify family account, error message: ""600 - Oups ! Une erreur s'est produite. Réessayez plus tard."" Can you help me?",Mon Nov 27 08:53:47 +0000 2017,,,
-1836171,438700,"@SpotifyCares I am not, when I click on his music the play bar on the bottom just goes away. if I try to queue it, it says ""Cannot queue this content.""",Wed Oct 18 16:11:01 +0000 2017,,,
-2913825,806606,Why @SpotifyCares ??!!! 😞😞 https://t.co/nS1u4DfUoX,Tue Nov 28 20:43:07 +0000 2017,,,
-1081104,375023,"@SpotifyCares Hi there! I'm trying to pay my 9,99$/month and it keeps declining. I even tried my mom's card and still declines. HELP😣😤😰",Fri Oct 13 14:20:54 +0000 2017,,,
-2150426,314912,@115888 @SpotifyCares seriously? https://t.co/hTCjjTzhgA,Thu Nov 09 00:31:49 +0000 2017,,,
-345531,198225,@SpotifyCares @127153 @SpotifyCares You can even compare the quality versus his YouTube version.  @127153 https://t.co/fF22Ja041m,Sat Oct 07 19:50:49 +0000 2017,,,
-2005797,593156,@SpotifyCares @593154 virgin,Sat Nov 04 10:03:27 +0000 2017,,,
-257853,177344,@SpotifyCares @115888,Thu Oct 05 19:27:27 +0000 2017,,,
-1162335,393482,@115888 @SpotifyCares Why haven’t u created an explicit filter after 5+ yrs of customer requests? Pandora did it...I’d rather not switch...,Fri Nov 10 17:16:43 +0000 2017,,,
-1739399,524946,@SpotifyCares Absolutely do it! Thank you!,Tue Oct 17 20:18:10 +0000 2017,,,
-135133,146437,@SpotifyCares Seems to be the radio having issues playing non Christmas Classics and I can't share em. Christmas Hits and Christmas Classics.,Fri Nov 24 09:03:17 +0000 2017,,,
-1306144,425232,@SpotifyCares  I need to close my sons account. __email__. He used a facebook account that no longer exists.,Fri Oct 27 02:14:06 +0000 2017,,,
-1396382,444714,"@SpotifyCares Ok, thank you so much 💕",Sat Oct 28 14:47:53 +0000 2017,,,
-1742971,525737,"@SpotifyCares hey my play.spotify isnt working. the play button refuses to work and its my account that doesnt work, tried on more pc's",Fri Nov 03 12:01:53 +0000 2017,,,
-1870486,558637,@SpotifyCares this is not helpful i need a phone number,Thu Oct 19 22:47:10 +0000 2017,,,
-156960,152050,@SpotifyCares Roughly how long does it take to get a response to a private message? Just sent one and I'm wondering. Cheers.,Fri Nov 24 16:53:24 +0000 2017,,,
-2030758,600499,"@SpotifyCares Hi. Thanks. I have paid to changing my account into premium account, but turns out, my account is still free one. Pls advise.",Tue Nov 07 10:19:39 +0000 2017,,,
-115238,141623,"@117153 @SpotifyCares I just bought the premium account but on the app it still says that I have a free account so I am not getting the premium status, what should I do?",Thu Nov 23 21:22:16 +0000 2017,,,
-1956242,580566,@SpotifyCares The music suggested is mostly remixes of existing music I have starred in my music already. Once I had 4 moby remixes in a row.,Mon Oct 30 15:26:22 +0000 2017,,,
-315354,191285,@SpotifyCares Thank you.,Sat Oct 07 07:33:37 +0000 2017,,,
-1421474,123421,@SpotifyCares Hi. Thanks. I already have it working. It's just so clunky I wish I could use my phone as a remote.,Thu Nov 02 08:32:26 +0000 2017,,,
-2565928,727943,"@SpotifyCares Thanks, DM sent.",Thu Nov 16 23:03:49 +0000 2017,,,
-834143,318646,@SpotifyCares someone created an account with my email address. How do I close this account?,Mon Oct 09 02:05:46 +0000 2017,,,
-130902,145551,"@SpotifyCares hi, yesterday i received an email saying that my spotify family was changed to spotify free bc you couldnt confirm my address. when i tried to confirm it i kept failing with ""3-ups, something wrong try again"". what should i do? my account is __email__ thx",Fri Nov 24 05:15:18 +0000 2017,,,
-1855097,554970,"@SpotifyCares not only do you delete my playlists, you then delete my premium account? I'll take my business elsewhere if you don't want It!",Thu Oct 19 07:55:20 +0000 2017,,,
-2062087,609849,@SpotifyCares my spotify account has disconnected from my phone bill...why??,Fri Oct 06 11:35:38 +0000 2017,,,
-2972081,292847,@SpotifyCares  https://t.co/naZQMgzthi,Thu Nov 30 01:34:18 +0000 2017,,,
-621412,267483,@SpotifyCares Ok thks guys!!!,Wed Oct 04 12:52:50 +0000 2017,,,
-2751322,528429,"@SpotifyCares is there a problem with your site? Can’t login to app or web player. Says incorrect user or pass, but I know they’re correct.",Tue Nov 21 00:33:38 +0000 2017,,,
-115245,559149,@117153 @SpotifyCares I was charged for premium 3 days ago... It still shows I have a free account and dont have premium features... Please help. 🙏,Fri Oct 20 02:18:29 +0000 2017,,,
-2076934,614261,"Spotify does not care! Tweeted them, no reply. I'm paying for this! To get hacked &amp; listen to crap music @115888 @SpotifyCares @116130",Mon Oct 09 10:07:17 +0000 2017,,,
-845911,321061,"@SpotifyCares hey! I noticed that a few days ago, but I thought it was with an specific song, because I tried to download it while streaming it +",Fri Oct 20 15:36:13 +0000 2017,,,
-2133712,627794,@SpotifyCares I need help logging into my Hulu account with my Student Spotify Premium! Can you please verify my info so I can access my Hulu?,Sun Nov 26 01:19:04 +0000 2017,,,
-1683983,262187,"@SpotifyCares Hey KL, it doesn't actually work on the Desktop app. Is a Mac vs PC thing? I have the PC version installed on my work CPU, fwiw.",Mon Nov 06 18:24:59 +0000 2017,,,
-2922441,808780,@SpotifyCares Spotify seems to be down all over the world? Please update us. Thank you!,Tue Nov 28 20:58:51 +0000 2017,,,
+How come you've removed the ""In Rotation"" from the Hip Hop section? All I see is Playlists and New Releases now..",Mon Oct 09 16:56:41 +0000 2017,feature_information,false, not needed
+2552729,725081,"@SpotifyCares The band called The Aristocrates @98802 formed in 2011 does not have an album called Steel Drum Favorites (2000), nor did it appear on Cold Heat (2005).",Thu Nov 16 14:07:41 +0000 2017,feedback_other,false ,not needed
+2957828,816405,"@SpotifyCares I have a Mac and when I use the desktop app Spotify, I cannot hear anything. I have chosen Listening on a Mac chosen so it is not routing it anywhere else. What is wrong? Volume is not down btw.",Wed Nov 29 19:15:48 +0000 2017,app_technical_issue,false,not needed
+875172,327787,@SpotifyCares My email is associated with an FB account I don't have access to -- so I can't log in to that Spotify account to cancel. Help?,Fri Oct 20 17:14:27 +0000 2017,account_login_security,true,account access issue requiring account-specific investigation
+1999695,591272,@115888 @SpotifyCares,Thu Nov 02 21:27:53 +0000 2017,feedback_other,false,not needed
+2774554,775410,@SpotifyCares Great Thank you!,Tue Nov 21 18:24:42 +0000 2017,feedback_other,false,not needed
+2456278,703616,@SpotifyCares The updated version is out and it’s solid. 👌🏻,Mon Nov 20 14:24:39 +0000 2017,feedback_other,false,not needed
+1894635,564755,@SpotifyCares My credit card was charged a student rate but I am already a premium customer. Can you refund the student rate please?,Tue Oct 24 08:34:38 +0000 2017,billing_payment,true,refund request requiring billing investigation
+1969148,583389,@SpotifyCares Voted! https://t.co/Idsn569mrY,Tue Oct 31 15:58:24 +0000 2017,feedback_other,false,not needed
+1172344,164928,@SpotifyCares  https://t.co/VGxMMc2DMq,Tue Oct 24 20:17:20 +0000 2017,feedback_other,false,not needed
+664699,278413,"@SpotifyCares Didn't help. It's an issue with 2014 MBPs, they overheat when there is a fancy animation going on, happens on websites too.",Wed Oct 25 16:39:57 +0000 2017,app_technical_issue,false,not needed
+1211754,404409,Reset phone. All Spotify lists gone. Doesn't recognise I'm premium account holder. Account works on wifes phone with all lists @SpotifyCares,Sun Oct 15 18:19:58 +0000 2017,account_login_security,true,account access and Premium status requiring account-specific investigation
+839937,319829,@115888 @SpotifyCares please put aoa heart attack back on spotify https://t.co/FbHygo9sD3,Fri Oct 13 02:20:43 +0000 2017,feedback_other,false,not needed
+1779321,209818,@SpotifyCares @16134 problem solved,Wed Oct 11 18:10:28 +0000 2017,feedback_other,false,not needed
+551307,248470,@SpotifyCares DM!!!,Sat Dec 02 18:23:07 +0000 2017,feedback_other,false,not needed
+902972,307331,@SpotifyCares Here is the Screenshot. I pressed shuffle. It happens in all his songs. https://t.co/HwF5UXxPDZ,Fri Oct 20 01:25:31 +0000 2017,playback_music_issue,false,not needed
+1695250,514331,@SpotifyCares My Spotify keeps getting connected to a random device. I have changed my password but it keeps happening. How I delete device https://t.co/5EB7kPIGWM,Mon Nov 06 14:49:29 +0000 2017,account_login_security,true,account security issue requiring human investigation
+1087962,376423,@SpotifyCares Now let's talk about lowering my payments 👀,Mon Oct 23 18:59:38 +0000 2017,billing_payment,false,not needed
+854029,322854,"@SpotifyCares Hello, I wanna change my Spotify account username please 😭 Pls help 🙏",Mon Oct 09 14:46:10 +0000 2017,feature_information,false,not needed
+1648657,486619,@SpotifyCares i️ signed up for hulu + spotify student discount. spotify took out $4.99 as agreed but hulu took their full portion out. did i️ miss a step?,Sun Nov 05 22:49:48 +0000 2017,student_plan,false,not needed
+190106,160576,"@SpotifyCares it's a playlist in a set of folders. full path is ""feeling kind of... -&gt; ...emo -&gt; (all of the emo diaries)"". 119 songs. i was connected to wi-fi and got the errors i shared earlier.  but when i paired over bluetooth i was able to play the playlist. heard of that problem before?",Wed Oct 04 21:11:42 +0000 2017,app_technical_issue,false,not needed
+1007900,156320,"Hey, @SpotifyCares. Sent you guys a couple of DMs. Need your help.",Fri Dec 01 00:59:41 +0000 2017,feedback_other,false,not needed
+566314,252760,@SpotifyCares hi i tried paying for Spotify premium on the 99p offer but some how its disappeared when i went to subscribe,Sat Dec 02 17:03:51 +0000 2017,premium_subscription,false,not needed
+873980,327487,@SpotifyCares someone cares :’),Fri Oct 20 21:51:01 +0000 2017,feedback_other,false,not needed
+2364788,590664,@SpotifyCares Just got the update 😘,Tue Nov 21 16:38:28 +0000 2017,feedback_other,false,not needed
+1853820,554698,@SpotifyCares why can't I listen to frank ocean on spotify!!? :((((,Thu Oct 19 04:51:59 +0000 2017,playback_music_issue,false,not needed
+2075077,613698,@SpotifyCares why can't I access the student discount?? says it can't verify me as a student???,Tue Oct 10 04:51:36 +0000 2017,student_plan,false,not needed
+2644216,746077,"Hey @SpotifyCares trying to get around the student discount, but site crashed before I could finish. Says 'having a bad day' but $ taken out",Tue Oct 31 03:52:35 +0000 2017,billing_payment,true,payment taken after failed student discount attempt; billing/refund investigation
+2823488,786727,"@SpotifyCares @127637 Hello, I've got  a problem to join a Spotify family account, error message: ""600 - Oups ! Une erreur s'est produite. Réessayez plus tard."" Can you help me?",Mon Nov 27 08:53:47 +0000 2017,family_plan,false,not needed
+1836171,438700,"@SpotifyCares I am not, when I click on his music the play bar on the bottom just goes away. if I try to queue it, it says ""Cannot queue this content.""",Wed Oct 18 16:11:01 +0000 2017,playback_music_issue,false,not needed
+2913825,806606,Why @SpotifyCares ??!!! 😞😞 https://t.co/nS1u4DfUoX,Tue Nov 28 20:43:07 +0000 2017,feedback_other,false,not needed
+1081104,375023,"@SpotifyCares Hi there! I'm trying to pay my 9,99$/month and it keeps declining. I even tried my mom's card and still declines. HELP😣😤😰",Fri Oct 13 14:20:54 +0000 2017,billing_payment,false,not needed
+2150426,314912,@115888 @SpotifyCares seriously? https://t.co/hTCjjTzhgA,Thu Nov 09 00:31:49 +0000 2017,feedback_other,false,not needed
+345531,198225,@SpotifyCares @127153 @SpotifyCares You can even compare the quality versus his YouTube version.  @127153 https://t.co/fF22Ja041m,Sat Oct 07 19:50:49 +0000 2017,feedback_other,false,not needed
+2005797,593156,@SpotifyCares @593154 virgin,Sat Nov 04 10:03:27 +0000 2017,feedback_other,false,not needed
+257853,177344,@SpotifyCares @115888,Thu Oct 05 19:27:27 +0000 2017,feedback_other,false,not needed
+1162335,393482,@115888 @SpotifyCares Why haven’t u created an explicit filter after 5+ yrs of customer requests? Pandora did it...I’d rather not switch...,Fri Nov 10 17:16:43 +0000 2017,feedback_other,false,not needed
+1739399,524946,@SpotifyCares Absolutely do it! Thank you!,Tue Oct 17 20:18:10 +0000 2017,feedback_other,false,not needed
+135133,146437,@SpotifyCares Seems to be the radio having issues playing non Christmas Classics and I can't share em. Christmas Hits and Christmas Classics.,Fri Nov 24 09:03:17 +0000 2017,playback_music_issue,false,not needed
+1306144,425232,@SpotifyCares  I need to close my sons account. __email__. He used a facebook account that no longer exists.,Fri Oct 27 02:14:06 +0000 2017,account_login_security,true,
+1396382,444714,"@SpotifyCares Ok, thank you so much 💕",Sat Oct 28 14:47:53 +0000 2017,feedback_other,false,not needed
+1742971,525737,"@SpotifyCares hey my play.spotify isnt working. the play button refuses to work and its my account that doesnt work, tried on more pc's",Fri Nov 03 12:01:53 +0000 2017,app_technical_issue,false,not needed
+1870486,558637,@SpotifyCares this is not helpful i need a phone number,Thu Oct 19 22:47:10 +0000 2017,feature_information,false,not needed
+156960,152050,@SpotifyCares Roughly how long does it take to get a response to a private message? Just sent one and I'm wondering. Cheers.,Fri Nov 24 16:53:24 +0000 2017,feature_information,false,not needed
+2030758,600499,"@SpotifyCares Hi. Thanks. I have paid to changing my account into premium account, but turns out, my account is still free one. Pls advise.",Tue Nov 07 10:19:39 +0000 2017,premium_subscription,true,
+115238,141623,"@117153 @SpotifyCares I just bought the premium account but on the app it still says that I have a free account so I am not getting the premium status, what should I do?",Thu Nov 23 21:22:16 +0000 2017,premium_subscription,true,paid for Premium but account still shows Free; requires account-specific investigation
+1956242,580566,@SpotifyCares The music suggested is mostly remixes of existing music I have starred in my music already. Once I had 4 moby remixes in a row.,Mon Oct 30 15:26:22 +0000 2017,feature_information,false,not needed
+315354,191285,@SpotifyCares Thank you.,Sat Oct 07 07:33:37 +0000 2017,feedback_other,false,not needed
+1421474,123421,@SpotifyCares Hi. Thanks. I already have it working. It's just so clunky I wish I could use my phone as a remote.,Thu Nov 02 08:32:26 +0000 2017,feedback_other,false,not needed
+2565928,727943,"@SpotifyCares Thanks, DM sent.",Thu Nov 16 23:03:49 +0000 2017,feedback_other,false,not needed
+834143,318646,@SpotifyCares someone created an account with my email address. How do I close this account?,Mon Oct 09 02:05:46 +0000 2017,account_login_security,true,unauthorized account created using customer's email; requires account-specific investigation
+130902,145551,"@SpotifyCares hi, yesterday i received an email saying that my spotify family was changed to spotify free bc you couldnt confirm my address. when i tried to confirm it i kept failing with ""3-ups, something wrong try again"". what should i do? my account is __email__ thx",Fri Nov 24 05:15:18 +0000 2017,family_plan,true,Family plan removed after failed address verification; requires account-specific investigation
+1855097,554970,"@SpotifyCares not only do you delete my playlists, you then delete my premium account? I'll take my business elsewhere if you don't want It!",Thu Oct 19 07:55:20 +0000 2017,premium_subscription,true,Premium account removed and playlists deleted; requires account-specific investigation
+2062087,609849,@SpotifyCares my spotify account has disconnected from my phone bill...why??,Fri Oct 06 11:35:38 +0000 2017,billing_payment,true,Spotify subscription disconnected from phone bill; requires account/payment investigation
+2972081,292847,@SpotifyCares  https://t.co/naZQMgzthi,Thu Nov 30 01:34:18 +0000 2017,feedback_other,false,not needed
+621412,267483,@SpotifyCares Ok thks guys!!!,Wed Oct 04 12:52:50 +0000 2017,feedback_other,false,not needed
+2751322,528429,"@SpotifyCares is there a problem with your site? Can’t login to app or web player. Says incorrect user or pass, but I know they’re correct.",Tue Nov 21 00:33:38 +0000 2017,account_login_security,true,
+115245,559149,@117153 @SpotifyCares I was charged for premium 3 days ago... It still shows I have a free account and dont have premium features... Please help. 🙏,Fri Oct 20 02:18:29 +0000 2017,premium_subscription,true,charged for Premium but account still shows Free; requires account/payment investigation
+2076934,614261,"Spotify does not care! Tweeted them, no reply. I'm paying for this! To get hacked &amp; listen to crap music @115888 @SpotifyCares @116130",Mon Oct 09 10:07:17 +0000 2017,account_login_security,true,account appears to have been hacked; requires human investigation
+845911,321061,"@SpotifyCares hey! I noticed that a few days ago, but I thought it was with an specific song, because I tried to download it while streaming it +",Fri Oct 20 15:36:13 +0000 2017,playback_music_issue,false,not needed
+2133712,627794,@SpotifyCares I need help logging into my Hulu account with my Student Spotify Premium! Can you please verify my info so I can access my Hulu?,Sun Nov 26 01:19:04 +0000 2017,student_plan,true,Student Premium customer needs account-specific Hulu access assistance.
+1683983,262187,"@SpotifyCares Hey KL, it doesn't actually work on the Desktop app. Is a Mac vs PC thing? I have the PC version installed on my work CPU, fwiw.",Mon Nov 06 18:24:59 +0000 2017,app_technical_issue,false,not needed
+2922441,808780,@SpotifyCares Spotify seems to be down all over the world? Please update us. Thank you!,Tue Nov 28 20:58:51 +0000 2017,app_technical_issue,true,Possible widespread service outage requiring confirmation and incident handling.
 1993071,589846,"@SpotifyCares US
 Visions of Gideon
-Mystery of Love",Fri Nov 03 12:38:00 +0000 2017,,,
-2315979,503434,"@SpotifyCares Both!!! At home and Work, my friend doesn’t appear to be having any issues",Fri Oct 20 11:04:27 +0000 2017,,,
-2165616,621547,@SpotifyCares 👍🏽,Thu Nov 09 16:47:06 +0000 2017,,,
-1974290,584670,@SpotifyCares why is that my queue only plays 50 songs from a 100 song playlist?,Wed Nov 01 11:09:24 +0000 2017,,,
-409457,212633,@SpotifyCares i'm in Portugal right now,Mon Oct 09 23:02:45 +0000 2017,,,
-203101,164062,@SpotifyCares And not have to sort through ALL new music.,Wed Oct 04 19:06:41 +0000 2017,,,
-211089,165998,@SpotifyCares I can't save my downloaded song to my storage device even it's availabe,Wed Oct 04 16:26:20 +0000 2017,,,
-2245990,486619,@SpotifyCares so i got hulu to cancel my account through roku. but i need help on how to merge my spotify and hulu accounts now,Fri Nov 10 22:17:27 +0000 2017,,,
-2507527,714913,"@115888 @SpotifyCares @117168 Hey Spotify! I've been having issues with a vulnerability on your platform, where Spotiamb.0.2.1 takes control of my account. Any assistance would be awesome. https://t.co/lfSnRlbCGI",Wed Nov 15 20:05:05 +0000 2017,,,
-1249135,413073,"@SpotifyCares I had an album from E-LP ""I'll Sleep When You're Dead"" on Microsoft groove account but you only seem to be getting one song?",Thu Oct 26 02:26:43 +0000 2017,,,
-994571,355584,@SpotifyCares app logged me out and was set to offline. Won't let me log in because of that and can't change it because i can't log in-help?,Fri Oct 13 21:14:41 +0000 2017,,,
-1461616,459224,@SpotifyCares I want to pay through the network(Thailand) and no promotion 3 months ฿13 https://t.co/GBGqmLlGB2,Sat Nov 25 06:54:50 +0000 2017,,,
-631977,269783,@SpotifyCares please ignore previous tweet I appear to have been able to sign back up for the £9.99 for 3 months deal,Wed Nov 22 13:14:13 +0000 2017,,,
-181529,158649,"@SpotifyCares I have had eactly the same issue on iphone ios 10.3, app 8.4 and ipad ios 9.3, app 8.4",Wed Oct 04 05:24:57 +0000 2017,,,
-1263258,415854,@SpotifyCares 👌🏻👌🏻👌🏻👌🏻,Mon Oct 16 05:18:36 +0000 2017,,,
-902980,307331,"@SpotifyCares hey guys, why i cant play song that are not blacked out on the app?  I had the same problem trying to play songs by Queen",Thu Oct 19 18:48:05 +0000 2017,,,
-313068,190764,@SpotifyCares Done,Sat Oct 07 12:17:56 +0000 2017,,,
-2045366,169272,@SpotifyCares all. My downloaded albums are no longer on my device,Wed Oct 04 18:53:13 +0000 2017,,,
-1891925,564149,@SpotifyCares you charged me 4.99 and I still have ads and no skips. What's up with that. Dm me.,Sun Oct 22 15:26:59 +0000 2017,,,
-235217,172016,"@SpotifyCares Spotify's updated to 8.4.20, iOS 11.0.1, iPhone 6S Plus. Everything's running fine until I switch apps",Thu Oct 05 14:23:23 +0000 2017,,,
-2347850,678755,@SpotifyCares Whenever I receive a snap the music will just stop,Mon Nov 13 18:03:35 +0000 2017,,,
-2635039,743898,@SpotifyCares is there an easier way to alphabetize my playlists  besides dragging and dropping,Fri Nov 17 19:16:33 +0000 2017,,,
-1020906,361584,@SpotifyCares Thanks babe,Thu Oct 12 15:37:44 +0000 2017,,,
-1197665,401404,@SpotifyCares explain to me why a CANADIAN band's album isn't available to a CANADIAN on Spotify??!,Wed Oct 25 02:32:43 +0000 2017,,,
-2699547,758395,@SpotifyCares https://t.co/q4ppDcGcLe,Tue Nov 28 23:50:25 +0000 2017,,,
-2389841,688462,"@SpotifyCares Help!! I've lost all my playlist from the very beginning of my spotify membership. I've been on https://t.co/nEAC926nhY ,only to find playlist made in 2017.. any tips?",Tue Nov 14 08:42:28 +0000 2017,,,
-2960652,817091,@SpotifyCares Headphones work fine on all other devices and desktop player of this computer works fine w/o headphones.,Wed Nov 29 21:11:52 +0000 2017,,,
-388991,208045,"@SpotifyCares Nope, no errors. I got the app to work, but the web player refuses to start.",Mon Oct 09 15:41:42 +0000 2017,,,
-395410,209591,"@SpotifyCares . @SpotifyCares @115888 any updates or tracking number or ANYTHING on this? This issue keeps getting comments, and all we see is tumbleweed",Mon Oct 09 17:58:27 +0000 2017,,,
-1599879,491261,@SpotifyCares when will @115888 be optimized for the #iPhoneX?,Sun Nov 05 02:47:31 +0000 2017,,,
-564536,252241,"@SpotifyCares i'm verified as a student but can't complete the purchase because i get a ""HTTP ERROR 500"" error, please either refund me or solve this it's been almost a week without my premium account",Sat Dec 02 15:31:04 +0000 2017,,,
-1517192,472005,@SpotifyCares why won’t my Spotify play on shuffle when connected through Bluetooth in my car?,Fri Nov 03 18:30:38 +0000 2017,,,
-1423845,450862,"@SpotifyCares NONE of my local files will download, i redownloaded the app and the desktop and now my old local files won't redownload to the app either https://t.co/aqAuVXF3yQ",Thu Nov 02 10:04:21 +0000 2017,,,
-252301,175986,um i just went to put together a little xtina playlist for my shower only to find back to basics isn’t on spotify anymore??? @SpotifyCares https://t.co/Qae75mDL94,Thu Oct 12 00:17:12 +0000 2017,,,
-1013935,359923,@SpotifyCares Both as far as I can tell. Haven’t tried airplane mode yet cause I didn’t see the connection,Fri Oct 13 15:03:16 +0000 2017,,,
-839943,319831,@SpotifyCares No error message. The app crashes or just pauses,Fri Oct 13 02:53:03 +0000 2017,,,
-1942212,313759,@SpotifyCares why does web player always have this message https://t.co/mpMEPpBJ6o,Sun Oct 29 22:00:20 +0000 2017,,,
-352224,199772,@SpotifyCares Where’s Dvsn’s new album?! It’s on Apple Music but not on Spotify? Also what’s this crap about a download limit?,Fri Oct 13 09:36:11 +0000 2017,,,
-2336987,676159,@SpotifyCares only 60/151 songs on my playlist will download and I have no other playlists downloaded to my computer... is there a way to fix this?,Fri Oct 20 03:06:48 +0000 2017,,,
-1803339,541870,@SpotifyCares @115888 Any chance of putting on @37032 new album. Just released today.,Fri Oct 13 13:28:26 +0000 2017,,,
-1813398,544772,@SpotifyCares plz help,Sat Oct 14 22:05:25 +0000 2017,,,
-2175398,637761,@SpotifyCares Is there any way of a spotify premium user to look into their own set of data so that they could perform some research of their own?,Thu Nov 09 14:36:28 +0000 2017,,,
-2315977,503434,"@SpotifyCares Sadly not just tried it there! So weird that some of my music is working but others don’t, add @34965 to the list",Fri Oct 20 08:10:28 +0000 2017,,,
-29614,122505,@SpotifyCares Hello! Is it normal that I only have one radio left? Can you tell me how to have more please? Cheers and have a great day! https://t.co/cBxAz3b347,Wed Nov 01 09:14:37 +0000 2017,,,
-1705671,516977,"@SpotifyCares So I added some covers of ny fav artist to spotify, and i tried to sync it with my phone but when I try to listen to them offline",Mon Nov 06 22:09:45 +0000 2017,,,
-1195977,401017,".@SpotifyCares for the Takeoff (Migos) profile, it has the wrong albums. They’re by some other guy named Takeoff.",Wed Oct 25 01:45:06 +0000 2017,,,
-2475162,707600,Hi @SpotifyCares I created my account with Facebook and for a reason I don't get I'm located in France. And impossible to change the country in my Spotify account. Help please! https://t.co/V1ajIAQBdY,Wed Nov 15 13:17:52 +0000 2017,,,
-1181771,397914,@SpotifyCares and removing the songs one by one when you have 333 songs......hhhh it takes like 45 hours no joke,Tue Oct 24 22:31:10 +0000 2017,,,
-1043136,366676,"@SpotifyCares howdy, so my pal is a touch techno illiterate and doesn't know the email addy he used. Can you help him? #helpmehelphim",Thu Oct 12 22:06:11 +0000 2017,,,
-131818,145723,"@SpotifyCares I'll lose the downloaded data if I do that way :') I'll try it later, thanks! :)",Fri Nov 24 08:26:02 +0000 2017,,,
-2504278,714196,"@SpotifyCares Play, ff, etc on kaynoard no longer work",Fri Nov 17 03:48:51 +0000 2017,,,
-863721,294527,@SpotifyCares My premium ran out yesterday and now it's logged me out of my app without my knowledge and is refusing to log me back in 😧,Tue Nov 21 05:24:47 +0000 2017,,,
-2861221,340986,@SpotifyCares Still.,Tue Nov 28 00:35:11 +0000 2017,,,
-2545838,723613,@SpotifyCares https://t.co/8PU6eE3RDO,Thu Nov 16 14:29:12 +0000 2017,,,
-1807598,543042,@SpotifyCares ipaid for a student suppscription but it wont let me use my premium,Wed Oct 18 01:49:23 +0000 2017,,,
-2552678,725069,"@SpotifyCares its set to the U.S, it's not coming up in the albums https://t.co/xBnmIaMcjJ",Thu Nov 16 15:06:46 +0000 2017,,,
-184606,159460,"@SpotifyCares okay, will let you know if I see this again",Mon Oct 16 18:55:48 +0000 2017,,,
-2025482,598992,@SpotifyCares @598991 Same thing is happening to me. it logged me out and now I can't get back in. incognito or otherwise,Mon Nov 06 16:33:52 +0000 2017,,,
-1952033,579674,I wanted to cancel my premium trial but it would not let me and I was charged today. I would like a refund please. Thanks! @SpotifyCares,Sun Oct 29 14:10:17 +0000 2017,,,
-1523743,473413,@SpotifyCares 2015 MacBook Pro running macOS 10.12.6. Spotify version 1.0.65.320.gac7a8e02. It also happens on the web player in chrome and,Thu Oct 19 15:01:58 +0000 2017,,,
-2040133,603230,"@SpotifyCares i logged out, now it sais im on a FREE plan, and ALL of my music that i had is NOW GONE. I am not all happy. Please fix this.",Tue Nov 07 21:55:47 +0000 2017,,,
-558601,250519,Please can you help @SpotifyCares my monthly subscription goes out on the 4th December if I sign up for a year at £99 today will I lose December's payment or should I wait until end December to get yearly offer?,Sat Dec 02 11:03:56 +0000 2017,,,
-2653126,401404,"@SpotifyCares Hey guys! Quick question, would you be able to tell me when my Spotify account was created?",Sun Nov 19 05:31:30 +0000 2017,,,
-1815890,154077,@SpotifyCares HELP!!! My service is dead,Mon Oct 16 00:44:55 +0000 2017,,,
-2547407,723973,@SpotifyCares @723972 I'm listening in the USA y'all on some bullshit lemme try to restart,Thu Nov 16 14:43:18 +0000 2017,,,
-301175,187838,"@SpotifyCares Apparently it's not only me-asked the bf an hour away, and it goes silent for him too... :( Thanks for the quick replies!",Fri Oct 06 20:51:04 +0000 2017,,,
-2287720,664675,Is this still valid because I’m trying to add songs to my playlist and it won’t add anything after 656 @115888 @SpotifyCares https://t.co/SOS72y88Zf,Sun Nov 12 02:23:35 +0000 2017,,,
-41770,125200,"Also, where the is ""Nostalgia, Ultra""? @115888 @SpotifyCares",Wed Nov 01 15:14:47 +0000 2017,,,
-1567395,483712,@SpotifyCares someone changed my spotify email address! Not impressed @115888   now I'm locked out of my account!,Tue Oct 17 05:39:32 +0000 2017,,,
-967401,349614,@SpotifyCares But I have done the reset function and it still hasn’t worked 😢 https://t.co/vU6OHkIurZ,Sun Oct 22 10:32:41 +0000 2017,,,
-2727203,764756,@SpotifyCares It keeps saying my email account is not associated with the account but yet this is where the emails come,Mon Nov 20 14:26:55 +0000 2017,,,
-776165,305457,@SpotifyCares Thanks for your help team!!! I'll get onto them,Thu Oct 12 03:50:35 +0000 2017,,,
-1162355,325183,"@SpotifyCares Thanks for the response, LM. Looking forward to the update!",Fri Nov 10 17:19:08 +0000 2017,,,
-2820845,786207,@SpotifyCares Like hellooooooooo !!!!!,Mon Nov 27 04:29:45 +0000 2017,,,
-1264719,416146,@SpotifyCares Version 8.4.22.515?,Thu Oct 26 12:19:36 +0000 2017,,,
-1569790,484168,@SpotifyCares That's silly. There needs 2 B a way to remove a song when it plays. Searching thru playlists to find the song and delete is ridic. 9 clicks.,Sun Nov 05 03:15:00 +0000 2017,,,
-2629102,221679,@SpotifyCares Chrome Version 62.0.3202.94  FWIW,Fri Nov 17 17:25:51 +0000 2017,,,
-168126,152999,@SpotifyCares No,Sat Nov 25 00:45:34 +0000 2017,,,
-1335484,574595,@431542 @425725 @SpotifyCares @116130 I can’t get it on my Spotify???,Sat Oct 28 12:05:36 +0000 2017,,,
-1933048,536688,@SpotifyCares either tell me how to do this or a feature request. Hard press on pause to have playback stop at the end of the current song?,Sat Oct 28 17:11:45 +0000 2017,,,
-2125247,625881,@SpotifyCares PLEASE help me fix this! I'm locked out of my account someone changed the email address and password.,Wed Nov 08 18:04:11 +0000 2017,,,
-2547422,723975,@SpotifyCares So free premium for life or do I have to switch to Apple Music since they have take care,Thu Nov 16 14:17:50 +0000 2017,,,
-2964666,817963,"@SpotifyCares @113729 Specifically his older material! ""Devin Townsend"" &amp; ""Devin Townsend Band"". Please come back soon :(",Wed Nov 29 22:26:06 +0000 2017,,,
-2116832,623923,@SpotifyCares Where is the support for iPhone X?,Wed Nov 08 12:04:07 +0000 2017,,,
-2183103,639485,@SpotifyCares Hey is there any way I can reverse my payment on spotify to make me have the student discount. When I went to change the payment last time the website crashed and now I am being charged extra when I should have the student discount. Please help me thank you,Thu Nov 09 16:22:23 +0000 2017,,,
-2338499,676508,@SpotifyCares I can't download using my mobile data :/ sucks https://t.co/YHokaOu8LM,Fri Oct 20 05:04:50 +0000 2017,,,
-1814724,545154,Seriously @SpotifyCares when are you sorting out getting @29334 back?? Lets get it sorted!!,Sun Oct 15 17:34:52 +0000 2017,,,
-176516,157530,@SpotifyCares iPhone 6 on 3 ...it’s only happened recently all my updates are done so I don’t understand why,Sun Nov 26 08:04:47 +0000 2017,,,
-786211,307555,"@SpotifyCares yeah I've done all that deleted cache, uninstalled and reinstalled as well",Thu Oct 12 09:02:13 +0000 2017,,,
-510503,237285,@SpotifyCares Playlist keeps going back to the same song after playing a series of songs normally? Playing through a WI-FI speaker.,Fri Dec 01 22:28:19 +0000 2017,,,
-1806993,542873,"@SpotifyCares I tried that.  Same result.  I had the student discount originally,  but switched the reg premium.",Sat Oct 14 13:58:07 +0000 2017,,,
-1730301,522892,"@SpotifyCares Hi, is there a problem with your site? I can't access the page to create a widget for my website.",Tue Nov 07 09:22:36 +0000 2017,,,
-771451,304248,"@SpotifyCares The app doesn’t work with IOS 11 music controls in the control centre, lock screen and AirPlay/volume control.",Thu Oct 12 00:04:50 +0000 2017,,,
-1852540,395376,"@SpotifyCares Upgrade acct to family premium, was expecting email confirmation but none, even in spam folder. /2",Thu Oct 19 02:07:54 +0000 2017,,,
-783495,307005,@SpotifyCares I've got Windows 10 with the latest version (since it auto updates),Sun Nov 05 15:20:55 +0000 2017,,,
-1522818,128214,@SpotifyCares Oh good. Glad it was #fakenews then. Lol,Fri Nov 03 20:29:13 +0000 2017,,,
-1085886,376154,"@SpotifyCares (listen I get it, I know how music licensing works but I'm trying to establish my angsty twitter brand so just tell @20323 what's up)",Fri Oct 13 17:54:32 +0000 2017,,,
-1324619,342994,@SpotifyCares just give me a straight answer. I just want to know the latest possible date for fix. Stop apologizing and dodging.,Fri Oct 27 07:44:43 +0000 2017,,,
-1552604,480391,@SpotifyCares When is Spotify getting an update for iPhone X??,Sat Nov 04 03:23:35 +0000 2017,,,
-1032840,364377,"@SpotifyCares When I search up a song  and click on it, it plays a different song every time",Mon Oct 23 20:01:48 +0000 2017,,,
-1934548,575617,Hey @SpotifyCares I have a problem with my subscription can you help?,Sun Oct 29 01:32:48 +0000 2017,,,
-2275380,661803,"Hey @SpotifyCares @115888 @117168 , of course we want the app on the Nintendo Switch!! #NoBrainer https://t.co/Zrv0Ex5r5M",Sat Nov 11 07:09:44 +0000 2017,,,
-1857577,555500,"@SpotifyCares On my phone, it doesn’t say anything but on my Mac, this pops up. https://t.co/mJKb7ifKtE",Thu Oct 19 13:33:46 +0000 2017,,,
-1076445,374000,@SpotifyCares I was checking out the student pricing yesterday and now im seeing charges on my card even without having purchased. pls help!,Sat Oct 14 23:40:21 +0000 2017,,,
-124844,775424,"@SpotifyCares @143967 I have the same situation.. I don't have credit card,but I want to avail the 9php premium thru mobile mode of payment @SpotifyCares",Wed Nov 22 03:53:47 +0000 2017,,,
-2782176,776957,@SpotifyCares when are you gonna let us saudis enjoy your services?,Tue Nov 21 16:34:21 +0000 2017,,,
-875192,327789,@SpotifyCares Come And Get Your Love - Re-Record plays I Will Survive,Fri Oct 20 16:57:02 +0000 2017,,,
-1962018,446186,@SpotifyCares Cdbaby is my distributor i have a artist page on spotify already w/ blue check,Mon Oct 30 23:57:47 +0000 2017,,,
-2752831,770623,@SpotifyCares No SD card.,Wed Nov 22 01:39:28 +0000 2017,,,
-2065660,610863,@SpotifyCares I download a playlist but I can't listen my music offline. I don't have wifi where I'm living to download a Playlist again.,Sat Oct 07 23:53:28 +0000 2017,,,
-2864078,795555,thanks boo @SpotifyCares https://t.co/wlc0dCsTKd,Mon Nov 27 23:32:09 +0000 2017,,,
-2526454,719379,@SpotifyCares What can I do to resolve this issue only way I can listen to music at work please please please help me out,Thu Nov 16 03:42:44 +0000 2017,,,
-2198179,642979,@SpotifyCares my sister lives in nyc can she still use our family plan?,Thu Nov 09 23:25:59 +0000 2017,,,
-2927399,809904,@SpotifyCares why my account n phone number can't buy this package? https://t.co/MIxHHGrKYe,Wed Nov 29 03:05:52 +0000 2017,,,
-2397306,568041,"Seriously @116130 @SpotifyCares if I hear that Sam Smith advert again (it's been played three times the past hour) I'm subscribing to Apple Music even though that will mean I have to use iTunes. Yes, it's that annoying!",Tue Nov 14 11:46:35 +0000 2017,,,
-596350,261331,@SpotifyCares ive been double charged for my subscription how do i get this money back ?,Sun Dec 03 10:49:06 +0000 2017,,,
-1887131,562837,@SpotifyCares I've received this over 9 times after typing it in. what's your deal? https://t.co/DjveiYGdWo,Mon Oct 23 11:48:00 +0000 2017,,,
-1269778,417302,@SpotifyCares Someone changed my registration email address and I cannot longer access my premium account which I am paying for!,Mon Oct 16 05:54:03 +0000 2017,,,
-1527851,474384,.@SpotifyCares can u tell me why my downloads would disappear when I change download from mobile to WiFi?,Fri Nov 03 22:16:05 +0000 2017,,,
-2136505,628499,@SpotifyCares my (android) app freezes after it plays ads and I need to restart it every time to resume playing music,Wed Nov 08 21:17:49 +0000 2017,,,
-1473905,462155,@SpotifyCares there is a recurring charge on my bank statement that I didn’t do. Need help.,Thu Nov 02 15:16:13 +0000 2017,,,
-2807576,705687,@SpotifyCares any news on when I can use Spotify on my Apple Watch?,Sun Nov 26 15:14:57 +0000 2017,,,
-1269967,417338,@SpotifyCares And I can rejoin with a new account,Mon Oct 16 06:26:14 +0000 2017,,,
-2158627,634068,@SpotifyCares  https://t.co/Y8bc8lmy07,Thu Nov 09 02:14:58 +0000 2017,,,
-642125,272399,@SpotifyCares USA,Wed Nov 22 23:27:56 +0000 2017,,,
-1913342,399950,@SpotifyCares is it really impossible for your app to not delete all my downloaded content every freaking week?,Wed Oct 25 18:18:22 +0000 2017,,,
-1150049,390627,"@SpotifyCares I keep getting a ""this song is not available"" message for just one song in an entire album. That song works for my friends.",Tue Oct 24 12:18:00 +0000 2017,,,
-1900256,189197,"@SpotifyCares Hey there. I just moved my collection from Groove, and I upgraded a free account in the process. Why didn't I get 60 days free",Mon Oct 23 20:28:04 +0000 2017,,,
-173614,156647,@SpotifyCares What do I do?? https://t.co/knTHvjU6hW,Fri Nov 24 23:58:46 +0000 2017,,,
-572683,254569,@SpotifyCares dm please! I need you help!,Sun Dec 03 04:07:55 +0000 2017,,,
-296849,186720,@SpotifyCares @186719 same problem,Fri Oct 20 01:24:58 +0000 2017,,,
-909940,336134,@SpotifyCares I'm having issues cancelling my spotify. I recently lost access to my Facebook and can't log in.,Tue Oct 10 15:22:12 +0000 2017,,,
-1923522,572554,"@SpotifyCares That a joke ,""no info""  People have been asking for it for at least last 5 years, just google ""Spotify parent adult advisory""",Wed Oct 18 15:10:43 +0000 2017,,,
+Mystery of Love",Fri Nov 03 12:38:00 +0000 2017,feedback_other,false,not needed
+2315979,503434,"@SpotifyCares Both!!! At home and Work, my friend doesn’t appear to be having any issues",Fri Oct 20 11:04:27 +0000 2017,feedback_other,false,not needed
+2165616,621547,@SpotifyCares 👍🏽,Thu Nov 09 16:47:06 +0000 2017,feedback_other,false,not needed
+1974290,584670,@SpotifyCares why is that my queue only plays 50 songs from a 100 song playlist?,Wed Nov 01 11:09:24 +0000 2017,playlist_library,false,not needed
+409457,212633,@SpotifyCares i'm in Portugal right now,Mon Oct 09 23:02:45 +0000 2017,feedback_other,false,not needed
+203101,164062,@SpotifyCares And not have to sort through ALL new music.,Wed Oct 04 19:06:41 +0000 2017,feedback_other,false,not needed
+211089,165998,@SpotifyCares I can't save my downloaded song to my storage device even it's availabe,Wed Oct 04 16:26:20 +0000 2017,app_technical_issue,false,not needed
+2245990,486619,@SpotifyCares so i got hulu to cancel my account through roku. but i need help on how to merge my spotify and hulu accounts now,Fri Nov 10 22:17:27 +0000 2017,student_plan,true,Requires account-specific assistance to link or merge Spotify and Hulu accounts.
+2507527,714913,"@115888 @SpotifyCares @117168 Hey Spotify! I've been having issues with a vulnerability on your platform, where Spotiamb.0.2.1 takes control of my account. Any assistance would be awesome. https://t.co/lfSnRlbCGI",Wed Nov 15 20:05:05 +0000 2017,account_login_security,true,Potential account compromise and security vulnerability requires human investigation.
+1249135,413073,"@SpotifyCares I had an album from E-LP ""I'll Sleep When You're Dead"" on Microsoft groove account but you only seem to be getting one song?",Thu Oct 26 02:26:43 +0000 2017,playback_music_issue,false,not needed
+994571,355584,@SpotifyCares app logged me out and was set to offline. Won't let me log in because of that and can't change it because i can't log in-help?,Fri Oct 13 21:14:41 +0000 2017,account_login_security,true,Customer is locked out and requires assistance restoring account access.
+1461616,459224,@SpotifyCares I want to pay through the network(Thailand) and no promotion 3 months ฿13 https://t.co/GBGqmLlGB2,Sat Nov 25 06:54:50 +0000 2017,feedback_other,false,not needed
+631977,269783,@SpotifyCares please ignore previous tweet I appear to have been able to sign back up for the £9.99 for 3 months deal,Wed Nov 22 13:14:13 +0000 2017,premium_subscription,false,not needed
+181529,158649,"@SpotifyCares I have had eactly the same issue on iphone ios 10.3, app 8.4 and ipad ios 9.3, app 8.4",Wed Oct 04 05:24:57 +0000 2017,app_technical_issue,false,not needed
+1263258,415854,@SpotifyCares 👌🏻👌🏻👌🏻👌🏻,Mon Oct 16 05:18:36 +0000 2017,feedback_other,false,not needed
+902980,307331,"@SpotifyCares hey guys, why i cant play song that are not blacked out on the app?  I had the same problem trying to play songs by Queen",Thu Oct 19 18:48:05 +0000 2017,playback_music_issue,false,not needed
+313068,190764,@SpotifyCares Done,Sat Oct 07 12:17:56 +0000 2017,feedback_other,false,not needed
+2045366,169272,@SpotifyCares all. My downloaded albums are no longer on my device,Wed Oct 04 18:53:13 +0000 2017,playback_music_issue,false,not needed
+1891925,564149,@SpotifyCares you charged me 4.99 and I still have ads and no skips. What's up with that. Dm me.,Sun Oct 22 15:26:59 +0000 2017,billing_payment,true,Customer was charged but did not receive the expected subscription benefits; requires account/payment verification.
+235217,172016,"@SpotifyCares Spotify's updated to 8.4.20, iOS 11.0.1, iPhone 6S Plus. Everything's running fine until I switch apps",Thu Oct 05 14:23:23 +0000 2017,app_technical_issue,false,not needed
+2347850,678755,@SpotifyCares Whenever I receive a snap the music will just stop,Mon Nov 13 18:03:35 +0000 2017,playback_music_issue,false,not needed
+2635039,743898,@SpotifyCares is there an easier way to alphabetize my playlists  besides dragging and dropping,Fri Nov 17 19:16:33 +0000 2017,feedback_other,false,not needed
+1020906,361584,@SpotifyCares Thanks babe,Thu Oct 12 15:37:44 +0000 2017,feedback_other,false,not needed
+1197665,401404,@SpotifyCares explain to me why a CANADIAN band's album isn't available to a CANADIAN on Spotify??!,Wed Oct 25 02:32:43 +0000 2017,feedback_other,false,not needed
+2699547,758395,@SpotifyCares https://t.co/q4ppDcGcLe,Tue Nov 28 23:50:25 +0000 2017,feedback_other,false,not needed
+2389841,688462,"@SpotifyCares Help!! I've lost all my playlist from the very beginning of my spotify membership. I've been on https://t.co/nEAC926nhY ,only to find playlist made in 2017.. any tips?",Tue Nov 14 08:42:28 +0000 2017,playlist_library,true,Customer has lost historical playlists and needs account-specific investigation/recovery.
+2960652,817091,@SpotifyCares Headphones work fine on all other devices and desktop player of this computer works fine w/o headphones.,Wed Nov 29 21:11:52 +0000 2017,app_technical_issue,false,not needed
+388991,208045,"@SpotifyCares Nope, no errors. I got the app to work, but the web player refuses to start.",Mon Oct 09 15:41:42 +0000 2017,app_technical_issue,false,not needed
+395410,209591,"@SpotifyCares . @SpotifyCares @115888 any updates or tracking number or ANYTHING on this? This issue keeps getting comments, and all we see is tumbleweed",Mon Oct 09 17:58:27 +0000 2017,feedback_other,true,Unresolved issue requires a status update or tracking information from support.
+1599879,491261,@SpotifyCares when will @115888 be optimized for the #iPhoneX?,Sun Nov 05 02:47:31 +0000 2017,feedback_other,false,not needed
+564536,252241,"@SpotifyCares i'm verified as a student but can't complete the purchase because i get a ""HTTP ERROR 500"" error, please either refund me or solve this it's been almost a week without my premium account",Sat Dec 02 15:31:04 +0000 2017,student_plan,true,Student Premium purchase is failing with a server error and requires payment/account investigation.
+1517192,472005,@SpotifyCares why won’t my Spotify play on shuffle when connected through Bluetooth in my car?,Fri Nov 03 18:30:38 +0000 2017,playback_music_issue,false,not needed
+1423845,450862,"@SpotifyCares NONE of my local files will download, i redownloaded the app and the desktop and now my old local files won't redownload to the app either https://t.co/aqAuVXF3yQ",Thu Nov 02 10:04:21 +0000 2017,app_technical_issue,false,not needed
+252301,175986,um i just went to put together a little xtina playlist for my shower only to find back to basics isn’t on spotify anymore??? @SpotifyCares https://t.co/Qae75mDL94,Thu Oct 12 00:17:12 +0000 2017,playlist_library,false,not needed
+1013935,359923,@SpotifyCares Both as far as I can tell. Haven’t tried airplane mode yet cause I didn’t see the connection,Fri Oct 13 15:03:16 +0000 2017,app_technical_issue,false,not needed
+839943,319831,@SpotifyCares No error message. The app crashes or just pauses,Fri Oct 13 02:53:03 +0000 2017,feedback_other,false,not needed
+1942212,313759,@SpotifyCares why does web player always have this message https://t.co/mpMEPpBJ6o,Sun Oct 29 22:00:20 +0000 2017,feedback_other,false,not needed
+352224,199772,@SpotifyCares Where’s Dvsn’s new album?! It’s on Apple Music but not on Spotify? Also what’s this crap about a download limit?,Fri Oct 13 09:36:11 +0000 2017,feature_information,false,not needed
+2336987,676159,@SpotifyCares only 60/151 songs on my playlist will download and I have no other playlists downloaded to my computer... is there a way to fix this?,Fri Oct 20 03:06:48 +0000 2017,playback_music_issue,false,not needed
+1803339,541870,@SpotifyCares @115888 Any chance of putting on @37032 new album. Just released today.,Fri Oct 13 13:28:26 +0000 2017,feedback_other,false,not needed
+1813398,544772,@SpotifyCares plz help,Sat Oct 14 22:05:25 +0000 2017,feedback_other,false,not needed
+2175398,637761,@SpotifyCares Is there any way of a spotify premium user to look into their own set of data so that they could perform some research of their own?,Thu Nov 09 14:36:28 +0000 2017,feature_information,false,not needed
+2315977,503434,"@SpotifyCares Sadly not just tried it there! So weird that some of my music is working but others don’t, add @34965 to the list",Fri Oct 20 08:10:28 +0000 2017,playback_music_issue,false,not needed
+29614,122505,@SpotifyCares Hello! Is it normal that I only have one radio left? Can you tell me how to have more please? Cheers and have a great day! https://t.co/cBxAz3b347,Wed Nov 01 09:14:37 +0000 2017,feature_information,false,not needed
+1705671,516977,"@SpotifyCares So I added some covers of ny fav artist to spotify, and i tried to sync it with my phone but when I try to listen to them offline",Mon Nov 06 22:09:45 +0000 2017,app_technical_issue,false,not needed
+1195977,401017,".@SpotifyCares for the Takeoff (Migos) profile, it has the wrong albums. They’re by some other guy named Takeoff.",Wed Oct 25 01:45:06 +0000 2017,feature_information,true,Incorrect artist/album metadata requires investigation and correction.
+2475162,707600,Hi @SpotifyCares I created my account with Facebook and for a reason I don't get I'm located in France. And impossible to change the country in my Spotify account. Help please! https://t.co/V1ajIAQBdY,Wed Nov 15 13:17:52 +0000 2017,account_login_security,true,Account-specific country setting cannot be changed and requires support assistance.
+1181771,397914,@SpotifyCares and removing the songs one by one when you have 333 songs......hhhh it takes like 45 hours no joke,Tue Oct 24 22:31:10 +0000 2017,playlist_library,false,not needed
+1043136,366676,"@SpotifyCares howdy, so my pal is a touch techno illiterate and doesn't know the email addy he used. Can you help him? #helpmehelphim",Thu Oct 12 22:06:11 +0000 2017,account_login_security,true,Account ownership verification may be required to identify the email associated with the account.
+131818,145723,"@SpotifyCares I'll lose the downloaded data if I do that way :') I'll try it later, thanks! :)",Fri Nov 24 08:26:02 +0000 2017,feedback_other,false,not needed
+2504278,714196,"@SpotifyCares Play, ff, etc on kaynoard no longer work",Fri Nov 17 03:48:51 +0000 2017,feedback_other,false,not needed
+863721,294527,@SpotifyCares My premium ran out yesterday and now it's logged me out of my app without my knowledge and is refusing to log me back in 😧,Tue Nov 21 05:24:47 +0000 2017,premium_subscription,true,Customer is unable to access their account after an unexpected logout.
+2861221,340986,@SpotifyCares Still.,Tue Nov 28 00:35:11 +0000 2017,feedback_other,false,not needed
+2545838,723613,@SpotifyCares https://t.co/8PU6eE3RDO,Thu Nov 16 14:29:12 +0000 2017,feedback_other,false,not needed
+1807598,543042,@SpotifyCares ipaid for a student suppscription but it wont let me use my premium,Wed Oct 18 01:49:23 +0000 2017,student_plan,true,"Customer paid for a Student subscription but Premium benefits aren't active, requiring"
+2552678,725069,"@SpotifyCares its set to the U.S, it's not coming up in the albums https://t.co/xBnmIaMcjJ",Thu Nov 16 15:06:46 +0000 2017,feedback_other,false,not needed
+184606,159460,"@SpotifyCares okay, will let you know if I see this again",Mon Oct 16 18:55:48 +0000 2017,feedback_other,false,not needed
+2025482,598992,@SpotifyCares @598991 Same thing is happening to me. it logged me out and now I can't get back in. incognito or otherwise,Mon Nov 06 16:33:52 +0000 2017,feedback_other,false,not needed
+1952033,579674,I wanted to cancel my premium trial but it would not let me and I was charged today. I would like a refund please. Thanks! @SpotifyCares,Sun Oct 29 14:10:17 +0000 2017,billing_payment,true,Customer was charged after an unsuccessful trial cancellation and is requesting a refund.
+1523743,473413,@SpotifyCares 2015 MacBook Pro running macOS 10.12.6. Spotify version 1.0.65.320.gac7a8e02. It also happens on the web player in chrome and,Thu Oct 19 15:01:58 +0000 2017,feedback_other,false,not needed
+2040133,603230,"@SpotifyCares i logged out, now it sais im on a FREE plan, and ALL of my music that i had is NOW GONE. I am not all happy. Please fix this.",Tue Nov 07 21:55:47 +0000 2017,feedback_other,false,not needed
+558601,250519,Please can you help @SpotifyCares my monthly subscription goes out on the 4th December if I sign up for a year at £99 today will I lose December's payment or should I wait until end December to get yearly offer?,Sat Dec 02 11:03:56 +0000 2017,feedback_other,false,not needed
+2653126,401404,"@SpotifyCares Hey guys! Quick question, would you be able to tell me when my Spotify account was created?",Sun Nov 19 05:31:30 +0000 2017,feedback_other,false,not needed
+1815890,154077,@SpotifyCares HELP!!! My service is dead,Mon Oct 16 00:44:55 +0000 2017,feedback_other,false,not needed
+2547407,723973,@SpotifyCares @723972 I'm listening in the USA y'all on some bullshit lemme try to restart,Thu Nov 16 14:43:18 +0000 2017,playback_music_issue,false,not needed
+301175,187838,"@SpotifyCares Apparently it's not only me-asked the bf an hour away, and it goes silent for him too... :( Thanks for the quick replies!",Fri Oct 06 20:51:04 +0000 2017,feedback_other,false,not needed
+2287720,664675,Is this still valid because I’m trying to add songs to my playlist and it won’t add anything after 656 @115888 @SpotifyCares https://t.co/SOS72y88Zf,Sun Nov 12 02:23:35 +0000 2017,playlist_library,false,not needed
+41770,125200,"Also, where the is ""Nostalgia, Ultra""? @115888 @SpotifyCares",Wed Nov 01 15:14:47 +0000 2017,feedback_other,false,not needed
+1567395,483712,@SpotifyCares someone changed my spotify email address! Not impressed @115888   now I'm locked out of my account!,Tue Oct 17 05:39:32 +0000 2017,account_login_security,true,Possible account compromise; unauthorized email change and account lockout require human investigation.
+967401,349614,@SpotifyCares But I have done the reset function and it still hasn’t worked 😢 https://t.co/vU6OHkIurZ,Sun Oct 22 10:32:41 +0000 2017,feedback_other,false,not needed
+2727203,764756,@SpotifyCares It keeps saying my email account is not associated with the account but yet this is where the emails come,Mon Nov 20 14:26:55 +0000 2017,feedback_other,false,not needed
+776165,305457,@SpotifyCares Thanks for your help team!!! I'll get onto them,Thu Oct 12 03:50:35 +0000 2017,feedback_other,false,not needed
+1162355,325183,"@SpotifyCares Thanks for the response, LM. Looking forward to the update!",Fri Nov 10 17:19:08 +0000 2017,feedback_other,false,not needed
+2820845,786207,@SpotifyCares Like hellooooooooo !!!!!,Mon Nov 27 04:29:45 +0000 2017,feedback_other,false,not needed
+1264719,416146,@SpotifyCares Version 8.4.22.515?,Thu Oct 26 12:19:36 +0000 2017,feedback_other,false,not needed
+1569790,484168,@SpotifyCares That's silly. There needs 2 B a way to remove a song when it plays. Searching thru playlists to find the song and delete is ridic. 9 clicks.,Sun Nov 05 03:15:00 +0000 2017,playlist_library,false,not needed
+2629102,221679,@SpotifyCares Chrome Version 62.0.3202.94  FWIW,Fri Nov 17 17:25:51 +0000 2017,feedback_other,false,not needed
+168126,152999,@SpotifyCares No,Sat Nov 25 00:45:34 +0000 2017,feedback_other,false,not needed
+1335484,574595,@431542 @425725 @SpotifyCares @116130 I can’t get it on my Spotify???,Sat Oct 28 12:05:36 +0000 2017,feedback_other,false,not needed
+1933048,536688,@SpotifyCares either tell me how to do this or a feature request. Hard press on pause to have playback stop at the end of the current song?,Sat Oct 28 17:11:45 +0000 2017,account_login_security,false,not needed
+2125247,625881,@SpotifyCares PLEASE help me fix this! I'm locked out of my account someone changed the email address and password.,Wed Nov 08 18:04:11 +0000 2017,account_login_security,true,Possible account compromise; unauthorized email and password changes require human intervention.
+2547422,723975,@SpotifyCares So free premium for life or do I have to switch to Apple Music since they have take care,Thu Nov 16 14:17:50 +0000 2017,premium_subscription,false,not needed
+2964666,817963,"@SpotifyCares @113729 Specifically his older material! ""Devin Townsend"" &amp; ""Devin Townsend Band"". Please come back soon :(",Wed Nov 29 22:26:06 +0000 2017,feedback_other,false,not needed
+2116832,623923,@SpotifyCares Where is the support for iPhone X?,Wed Nov 08 12:04:07 +0000 2017,feedback_other,false,not needed
+2183103,639485,@SpotifyCares Hey is there any way I can reverse my payment on spotify to make me have the student discount. When I went to change the payment last time the website crashed and now I am being charged extra when I should have the student discount. Please help me thank you,Thu Nov 09 16:22:23 +0000 2017,billing_payment,true,Customer was charged incorrectly and wants the payment reversed/adjusted to receive the Student discount.
+2338499,676508,@SpotifyCares I can't download using my mobile data :/ sucks https://t.co/YHokaOu8LM,Fri Oct 20 05:04:50 +0000 2017,app_technical_issue,false,not needed
+1814724,545154,Seriously @SpotifyCares when are you sorting out getting @29334 back?? Lets get it sorted!!,Sun Oct 15 17:34:52 +0000 2017,feedback_other,false,not needed
+176516,157530,@SpotifyCares iPhone 6 on 3 ...it’s only happened recently all my updates are done so I don’t understand why,Sun Nov 26 08:04:47 +0000 2017,account_login_security,false,not needed
+786211,307555,"@SpotifyCares yeah I've done all that deleted cache, uninstalled and reinstalled as well",Thu Oct 12 09:02:13 +0000 2017,app_technical_issue,true,Issue persists after standard troubleshooting and app reinstallation.
+510503,237285,@SpotifyCares Playlist keeps going back to the same song after playing a series of songs normally? Playing through a WI-FI speaker.,Fri Dec 01 22:28:19 +0000 2017,playback_music_issue,false,not needed
+1806993,542873,"@SpotifyCares I tried that.  Same result.  I had the student discount originally,  but switched the reg premium.",Sat Oct 14 13:58:07 +0000 2017,student_plan,true,Subscription status requires account-specific investigation after switching from Student to regular Premium.
+1730301,522892,"@SpotifyCares Hi, is there a problem with your site? I can't access the page to create a widget for my website.",Tue Nov 07 09:22:36 +0000 2017,app_technical_issue,false,not needed
+771451,304248,"@SpotifyCares The app doesn’t work with IOS 11 music controls in the control centre, lock screen and AirPlay/volume control.",Thu Oct 12 00:04:50 +0000 2017,app_technical_issue,false,not needed
+1852540,395376,"@SpotifyCares Upgrade acct to family premium, was expecting email confirmation but none, even in spam folder. /2",Thu Oct 19 02:07:54 +0000 2017,family_plan,true,Family Premium upgrade requires verification because confirmation email was not received.
+783495,307005,@SpotifyCares I've got Windows 10 with the latest version (since it auto updates),Sun Nov 05 15:20:55 +0000 2017,feedback_other,false,not needed
+1522818,128214,@SpotifyCares Oh good. Glad it was #fakenews then. Lol,Fri Nov 03 20:29:13 +0000 2017,feedback_other,false,not needed
+1085886,376154,"@SpotifyCares (listen I get it, I know how music licensing works but I'm trying to establish my angsty twitter brand so just tell @20323 what's up)",Fri Oct 13 17:54:32 +0000 2017,feedback_other,false,not needed
+1324619,342994,@SpotifyCares just give me a straight answer. I just want to know the latest possible date for fix. Stop apologizing and dodging.,Fri Oct 27 07:44:43 +0000 2017,app_technical_issue,true,Customer requests a definitive resolution timeline for an unresolved technical issue.
+1552604,480391,@SpotifyCares When is Spotify getting an update for iPhone X??,Sat Nov 04 03:23:35 +0000 2017,feedback_other,false,not needed
+1032840,364377,"@SpotifyCares When I search up a song  and click on it, it plays a different song every time",Mon Oct 23 20:01:48 +0000 2017,app_technical_issue,false,not needed
+1934548,575617,Hey @SpotifyCares I have a problem with my subscription can you help?,Sun Oct 29 01:32:48 +0000 2017,premium_subscription,true,Customer reports a subscription problem without enough details to resolve it automatically.
+2275380,661803,"Hey @SpotifyCares @115888 @117168 , of course we want the app on the Nintendo Switch!! #NoBrainer https://t.co/Zrv0Ex5r5M",Sat Nov 11 07:09:44 +0000 2017,feature_information,false,not needed
+1857577,555500,"@SpotifyCares On my phone, it doesn’t say anything but on my Mac, this pops up. https://t.co/mJKb7ifKtE",Thu Oct 19 13:33:46 +0000 2017,feedback_other,false,not needed
+1076445,374000,@SpotifyCares I was checking out the student pricing yesterday and now im seeing charges on my card even without having purchased. pls help!,Sat Oct 14 23:40:21 +0000 2017,billing_payment,true,requires human intervention
+124844,775424,"@SpotifyCares @143967 I have the same situation.. I don't have credit card,but I want to avail the 9php premium thru mobile mode of payment @SpotifyCares",Wed Nov 22 03:53:47 +0000 2017,billing_payment,true,Unexpected card charges require payment and account investigation.
+2782176,776957,@SpotifyCares when are you gonna let us saudis enjoy your services?,Tue Nov 21 16:34:21 +0000 2017,feedback_other,false,not needed
+875192,327789,@SpotifyCares Come And Get Your Love - Re-Record plays I Will Survive,Fri Oct 20 16:57:02 +0000 2017,feedback_other,false,not needed
+1962018,446186,@SpotifyCares Cdbaby is my distributor i have a artist page on spotify already w/ blue check,Mon Oct 30 23:57:47 +0000 2017,feedback_other,false,not needed
+2752831,770623,@SpotifyCares No SD card.,Wed Nov 22 01:39:28 +0000 2017,feedback_other,false,not needed
+2065660,610863,@SpotifyCares I download a playlist but I can't listen my music offline. I don't have wifi where I'm living to download a Playlist again.,Sat Oct 07 23:53:28 +0000 2017,app_technical_issue,false,not needed
+2864078,795555,thanks boo @SpotifyCares https://t.co/wlc0dCsTKd,Mon Nov 27 23:32:09 +0000 2017,feedback_other,false,not needed
+2526454,719379,@SpotifyCares What can I do to resolve this issue only way I can listen to music at work please please please help me out,Thu Nov 16 03:42:44 +0000 2017,app_technical_issue,false,not needed
+2198179,642979,@SpotifyCares my sister lives in nyc can she still use our family plan?,Thu Nov 09 23:25:59 +0000 2017,feedback_other,false,not needed
+2927399,809904,@SpotifyCares why my account n phone number can't buy this package? https://t.co/MIxHHGrKYe,Wed Nov 29 03:05:52 +0000 2017,billing_payment,true,Customer cannot complete the purchase and requires account/payment investigation.
+2397306,568041,"Seriously @116130 @SpotifyCares if I hear that Sam Smith advert again (it's been played three times the past hour) I'm subscribing to Apple Music even though that will mean I have to use iTunes. Yes, it's that annoying!",Tue Nov 14 11:46:35 +0000 2017,premium_subscription,false,not needed
+596350,261331,@SpotifyCares ive been double charged for my subscription how do i get this money back ?,Sun Dec 03 10:49:06 +0000 2017,billing_payment,true,"Customer was double-charged and is requesting a refund, requiring payment/account investigation."
+1887131,562837,@SpotifyCares I've received this over 9 times after typing it in. what's your deal? https://t.co/DjveiYGdWo,Mon Oct 23 11:48:00 +0000 2017,account_login_security,true,Repeated verification/login failure requires account-specific investigation.
+1269778,417302,@SpotifyCares Someone changed my registration email address and I cannot longer access my premium account which I am paying for!,Mon Oct 16 05:54:03 +0000 2017,account_login_security,true,Possible account compromise; unauthorized email change has locked the customer out of a paid account.
+1527851,474384,.@SpotifyCares can u tell me why my downloads would disappear when I change download from mobile to WiFi?,Fri Nov 03 22:16:05 +0000 2017,playback_music_issue,false,not needed
+2136505,628499,@SpotifyCares my (android) app freezes after it plays ads and I need to restart it every time to resume playing music,Wed Nov 08 21:17:49 +0000 2017,app_technical_issue,true,Persistent app freeze after ads requires repeated restarts and needs technical investigation.
+1473905,462155,@SpotifyCares there is a recurring charge on my bank statement that I didn’t do. Need help.,Thu Nov 02 15:16:13 +0000 2017,billing_payment,true,Unauthorized recurring charge requires payment and account investigation.
+2807576,705687,@SpotifyCares any news on when I can use Spotify on my Apple Watch?,Sun Nov 26 15:14:57 +0000 2017,feature_information,false,not needed
+1269967,417338,@SpotifyCares And I can rejoin with a new account,Mon Oct 16 06:26:14 +0000 2017,premium_subscription,true,Incomplete account/subscription question requires clarification.
+2158627,634068,@SpotifyCares  https://t.co/Y8bc8lmy07,Thu Nov 09 02:14:58 +0000 2017,feedback_other,false,not needed
+642125,272399,@SpotifyCares USA,Wed Nov 22 23:27:56 +0000 2017,feedback_other,false,not needed
+1913342,399950,@SpotifyCares is it really impossible for your app to not delete all my downloaded content every freaking week?,Wed Oct 25 18:18:22 +0000 2017,app_technical_issue,true,Persistent issue causing downloaded content to be repeatedly deleted.
+1150049,390627,"@SpotifyCares I keep getting a ""this song is not available"" message for just one song in an entire album. That song works for my friends.",Tue Oct 24 12:18:00 +0000 2017,playback_music_issue,false,not needed
+1900256,189197,"@SpotifyCares Hey there. I just moved my collection from Groove, and I upgraded a free account in the process. Why didn't I get 60 days free",Mon Oct 23 20:28:04 +0000 2017,premium_subscription,true,Customer upgraded from a free account but did not receive the expected 60-day Premium offer; eligibility/account status needs verification.
+173614,156647,@SpotifyCares What do I do?? https://t.co/knTHvjU6hW,Fri Nov 24 23:58:46 +0000 2017,feedback_other,false,not needed
+572683,254569,@SpotifyCares dm please! I need you help!,Sun Dec 03 04:07:55 +0000 2017,feedback_other,false,not needed
+296849,186720,@SpotifyCares @186719 same problem,Fri Oct 20 01:24:58 +0000 2017,feedback_other,false,not needed
+909940,336134,@SpotifyCares I'm having issues cancelling my spotify. I recently lost access to my Facebook and can't log in.,Tue Oct 10 15:22:12 +0000 2017,account_login_security,true,Customer cannot access their Spotify account after losing Facebook access and needs help cancelling the subscription.
+1923522,572554,"@SpotifyCares That a joke ,""no info""  People have been asking for it for at least last 5 years, just google ""Spotify parent adult advisory""",Wed Oct 18 15:10:43 +0000 2017,feature_information,false,not needed
