@@ -1,0 +1,11 @@
+query,intent,confidence,grounded,similarity,escalated,escalation_reason,reply,expected_grounded,expected_escalation,grounded_correct,escalation_correct
+Spotify app keeps crashing when I open it,app_technical_issue,1.0,True,0.615040343009549,False,,"@822220 Hey Alex! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /LO",True,False,True,True
+I was charged twice for Spotify Premium,billing_payment,0.857,False,0.0,True,No sufficiently similar historical evidence found.,,True,False,False,False
+I cannot log into my Spotify account,account_login_security,1.0,True,0.8839696117222728,False,,"@348222 Hey, help's here! Can you DM us your account's username or email address? We'll check backstage /AP https://t.co/ldFdZRiNAt",True,False,True,True
+My Spotify playlist disappeared,playlist_library,0.714,True,0.8118925374887833,False,,@185504 Hi there! Can you fire over your account's username or email address? We'll take a look under the hood /JM,True,False,True,True
+How do I get the Spotify student discount?,student_plan,0.625,True,0.6314185686161325,False,,@596974 Hi Frances! Could you send us your account's username or email address via DM? We'll take a look backstage /LP https://t.co/ldFdZRiNAt,True,False,True,True
+How do I create a Spotify family plan?,family_plan,0.625,False,0.0,True,No sufficiently similar historical evidence found.,,False,True,True,True
+I cannot play songs on Spotify,playback_music_issue,1.0,False,0.0,True,No sufficiently similar historical evidence found.,,False,True,True,True
+What is the weather going to be tomorrow?,feedback_other,0.0,False,0.0,True,Low intent classification confidence.,,False,True,True,True
+How do I make pancakes?,feedback_other,0.0,False,0.0,True,Low intent classification confidence.,,False,True,True,True
+What is the capital of France?,feedback_other,0.0,False,0.0,True,Low intent classification confidence.,,False,True,True,True

@@ -1,0 +1,13 @@
+query,expected_evidence,retrieved_evidence,correct
+Spotify app keeps crashing when I open it,True,True,True
+I was charged twice for Spotify Premium,True,True,True
+I cannot log into my Spotify account,True,True,True
+My Spotify playlist disappeared,True,True,True
+My Spotify Premium subscription is not working,True,False,False
+I cannot play songs on Spotify,True,False,False
+How do I get the Spotify student discount?,True,True,True
+How do I create a Spotify family plan?,True,False,False
+What is the weather going to be tomorrow?,False,False,True
+How do I make pancakes?,False,False,True
+What is the capital of France?,False,False,True
+Tell me a joke about computers,False,False,True
